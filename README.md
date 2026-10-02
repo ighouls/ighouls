@@ -1,4 +1,9 @@
-## Hi there 👋
+## hi im amna <3 ##
+
+currently learning new languages including java and c++ and all about how to develop a product that people want to use!
+
+
+find me anywhere :p
 
 <!--
 **ighouls/ighouls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
